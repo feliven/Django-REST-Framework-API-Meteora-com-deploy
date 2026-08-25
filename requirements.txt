@@ -6,6 +6,7 @@ django-cors-headers
 django-filter
 djangorestframework
 drf-spectacular
+Faker
 gunicorn
 h11
 inflection
